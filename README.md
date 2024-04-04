@@ -9,7 +9,7 @@
   <br>&emsp;sudo make install
 
 ## install tinyply-2.3.2
-<br>**install command:**
+**install command:**
   <br>&emsp;mkdir build && cd build
   <br>&emsp;cmake ..
   <br>&emsp;make -j2
