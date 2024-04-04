@@ -1,6 +1,6 @@
 # Thirdparty
 ## install pangolin
-<br>**install dependencies:**
+**install dependencies:**
   <br>sudo apt install libglew-dev cmake libboost-dev libboost-thread-dev libboost-filesystem-dev libeigen3-dev -y
 <br>**install command:**
   <br>mkdir build && cd build
